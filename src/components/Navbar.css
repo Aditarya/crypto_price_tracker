@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* box-shadow: 20%; */
+}
+
+.icon {
+    font-size: 2rem;
+    /* color: #6900ff; */
+    /* color: yellow; */
+    color: #537FE7;
+}
+
+.purple {
+    /* color: #6900ff; */
+    /* color: yellow; */
+    color: #537FE7;
+}
